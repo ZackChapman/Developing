@@ -1,0 +1,13 @@
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\bin\Debug\netcoreapp3.1\EncryptionAndAuthentication.exe
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\bin\Debug\netcoreapp3.1\EncryptionAndAuthentication.deps.json
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\bin\Debug\netcoreapp3.1\EncryptionAndAuthentication.runtimeconfig.json
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\bin\Debug\netcoreapp3.1\EncryptionAndAuthentication.runtimeconfig.dev.json
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\bin\Debug\netcoreapp3.1\EncryptionAndAuthentication.dll
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\bin\Debug\netcoreapp3.1\EncryptionAndAuthentication.pdb
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\obj\Debug\netcoreapp3.1\EncryptionAndAuthentication.csprojAssemblyReference.cache
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\obj\Debug\netcoreapp3.1\EncryptionAndAuthentication.AssemblyInfoInputs.cache
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\obj\Debug\netcoreapp3.1\EncryptionAndAuthentication.AssemblyInfo.cs
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\obj\Debug\netcoreapp3.1\EncryptionAndAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\obj\Debug\netcoreapp3.1\EncryptionAndAuthentication.dll
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\obj\Debug\netcoreapp3.1\EncryptionAndAuthentication.pdb
+C:\Users\Zack's Laptop\source\repos\EncryptionAndAuthentication\obj\Debug\netcoreapp3.1\EncryptionAndAuthentication.genruntimeconfig.cache
